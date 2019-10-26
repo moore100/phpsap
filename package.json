@@ -1,0 +1,14 @@
+{
+  "name": "@wahome100/phpsap",
+  "version": "4.0.0",
+  "description": "Allows you to make mpesa,sms,airtime and email intergrations to your php projects",
+  "license": "MIT",
+  "repository": "moore100/phpsap",
+  "main": "index.js",
+  "keywords": [
+    "mpesa",
+    "npm",
+    "package",
+    "RonnieNgonda"
+  ]
+}
