@@ -1,0 +1,6 @@
+6C9AA4160AAD561496CC4A17ED3FC260
+
+This is your API Verification File.
+This file should be placed on the root folder of target url. This file is unique for each account on PHPSAP
+http://example.com/mySite/Task?name=joe        This file should be available at: http://example.com/ATriggerVerify.txt
+http://sub.example.com/mySite/Task?name=joe    This file should be available at: http://sub.example.com/ATriggerVerify.txt
